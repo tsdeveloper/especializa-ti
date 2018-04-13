@@ -1,0 +1,32 @@
+{
+  "name": "web_responsive",
+  "authors": [
+    "Web Analyst - FM <Web Analyst - FM@DESKTOP-F9MPJ44>"
+  ],
+  "description": "",
+  "overrides": {
+    "bootstrap": {
+    "main": [
+      "dist/css/bootstrap.css",
+      "dist/css/bootstrap-reboot.css",
+      "dist/js/bootstrap.js"
+    ]
+    }},
+  "main":"",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "html5shiv": "^3.7.3",
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.0.0",
+    "modernizr": "^3.5.0",
+    "Modernizr": "http://modernizr.com/download/?-fontface-backgroundsize-borderimage-borderradius-boxshadow-flexbox-hsla-multiplebgs-opacity-rgba-textshadow-cssanimations-csscolumns-generatedcontent-cssgradients-cssreflections-csstransforms-csstransforms3d-csstransitions-applicationcache-canvas-canvastext-draganddrop-hashchange-history-audio-video-indexeddb-input-inputtypes-localstorage-postmessage-sessionstorage-websockets-websqldatabase-webworkers-geolocation-inlinesvg-smil-svg-svgclippaths-touch-webgl-shiv-mq-cssclasses-addtest-prefixed-teststyles-testprop-testallprops-hasevent-prefixes-domprefixes-load.zip"
+  }
+}
